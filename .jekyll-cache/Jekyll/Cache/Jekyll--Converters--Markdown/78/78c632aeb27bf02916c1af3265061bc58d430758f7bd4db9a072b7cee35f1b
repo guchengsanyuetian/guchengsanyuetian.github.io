@@ -1,35 +1,4 @@
-<!doctype html>
-<html>
-
-<head>
-    <meta charset="utf-8">
-    <title>Mdtext</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-</head>
-
-<body>
-    <nav>
-    
-    <a href="/" >Home</a>
-    
-    <a href="/about.html" >About</a>
-    
-    <a href="/text.html" >Text</a>
-    
-    <a href="/blog.html" >Blog</a>
-    
-    <a href="/staff.html" >Staff</a>
-    
-</nav>
-    <h1>Mdtext</h1>
-
-<p>
-  23 Apr 2021
-  
-  
-</p>
-
-<h1 id="markdown练习">markdown练习</h1>
+I"?<h1 id="markdown练习">markdown练习</h1>
 
 <p><a href="https://guchengsanyuetian.github.io/Markdown-%E6%A0%87%E9%A2%98.html">Markdown标题</a></p>
 
@@ -41,7 +10,4 @@
 
 <p><a href="https://guchengsanyuetian.github.io/Markdown-%E4%BB%A3%E7%A0%81.html">Markdown代码</a></p>
 
-
-</body>
-
-</html>
+:ET
